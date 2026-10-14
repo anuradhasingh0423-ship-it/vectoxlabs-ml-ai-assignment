@@ -1,0 +1,32 @@
+# Core data processing and testing
+numpy
+pandas
+pytest
+
+# Image processing - Question 2
+opencv-python
+Pillow
+
+# OCR - Question 3
+pytesseract
+
+# Medical data extraction and validation - Question 4
+pydantic
+
+# API and pipeline development - Question 5
+fastapi
+uvicorn
+requests
+
+# Chatbot and document processing - Question 6
+sentence-transformers
+scikit-learn
+pypdf
+
+# Speech recognition and transcription - Question 7
+faster-whisper
+jiwer
+
+# Notebook support
+jupyter
+ipykernel
